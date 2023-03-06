@@ -3,7 +3,7 @@
 <img align="right" alt="loading" width="400" src="https://user-images.githubusercontent.com/74831066/179352287-7773f6e8-40f6-4143-aa5f-3e12b8a897e6.gif">
 
 
-- 🌱 I’m currently learning in the **JAVA Academy ** at **Inegrify**
+- 🌱 I’m currently learning in the **JAVA Academy** at **Inegrify**
 
 - 💬 Ask me about **Python, Adobe , Marketing**
 
