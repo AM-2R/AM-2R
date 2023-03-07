@@ -39,4 +39,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AM-2R&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AM-2R" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AM-2R&show_icons=true&locale=en&theme=tokyonight" alt="AM-2R" /></p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
